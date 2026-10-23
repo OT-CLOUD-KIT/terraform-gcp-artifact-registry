@@ -1,0 +1,6 @@
+
+project_id = "your-gcp-project-id"
+location   = "asia-south1"
+
+reader_service_account = "runtime-reader@your-gcp-project-id.iam.gserviceaccount.com"
+writer_service_account = "ci-writer@your-gcp-project-id.iam.gserviceaccount.com"

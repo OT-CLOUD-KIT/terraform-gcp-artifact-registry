@@ -1,0 +1,4 @@
+
+# Leave null to use Google-managed encryption.
+# For CMEK, use the full existing Cloud KMS crypto key resource name.
+kms_key_name = null
